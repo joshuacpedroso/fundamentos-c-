@@ -1,0 +1,15 @@
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\bin\Debug\net6.0\Metodos.exe
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\bin\Debug\net6.0\Metodos.deps.json
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\bin\Debug\net6.0\Metodos.runtimeconfig.json
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\bin\Debug\net6.0\Metodos.dll
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\bin\Debug\net6.0\Metodos.pdb
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\Metodos.csproj.AssemblyReference.cache
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\Metodos.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\Metodos.AssemblyInfo.cs
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\Metodos.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\Metodos.dll
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\refint\Metodos.dll
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\Metodos.pdb
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\Metodos.genruntimeconfig.cache
+F:\Microsoft Visual Studio\Projetos\4U Code\fundamentos c#\Métodos\Métodos\obj\Debug\net6.0\ref\Metodos.dll
